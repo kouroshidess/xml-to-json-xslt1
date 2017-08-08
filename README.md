@@ -1,4 +1,4 @@
-# xml-to-json-xslt1
+# XML to JSON (XSLT 1.0)
 XSLT 1.0 stylesheet to transform XML representation of JSON to JSON as text.
 
 Loosely offering functionality available in XSLT 3.0 fn:xml-to-json() where this is not available natively in XSLT 1.0 or XSLT 2.0. Note this approach  is XSLT stylesheet based rather than XSLT function.
